@@ -1,0 +1,7 @@
+C:\Users\sony\Desktop\Uygulama1\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\sony\Desktop\Uygulama1\Matematik\bin\Debug\Matematik.exe
+C:\Users\sony\Desktop\Uygulama1\Matematik\bin\Debug\Matematik.pdb
+C:\Users\sony\Desktop\Uygulama1\Matematik\obj\Debug\Matematik.csprojAssemblyReference.cache
+C:\Users\sony\Desktop\Uygulama1\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\Uygulama1\Matematik\obj\Debug\Matematik.exe
+C:\Users\sony\Desktop\Uygulama1\Matematik\obj\Debug\Matematik.pdb

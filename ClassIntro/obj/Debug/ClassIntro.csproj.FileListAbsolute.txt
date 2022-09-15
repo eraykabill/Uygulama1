@@ -1,0 +1,7 @@
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\bin\Debug\ClassIntro.exe.config
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\bin\Debug\ClassIntro.exe
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\bin\Debug\ClassIntro.pdb
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\obj\Debug\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\obj\Debug\ClassIntro.exe
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\obj\Debug\ClassIntro.pdb
+C:\Users\sony\Desktop\Uygulama1\ClassIntro\obj\Debug\ClassIntro.csprojAssemblyReference.cache

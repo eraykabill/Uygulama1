@@ -1,0 +1,7 @@
+C:\Users\sony\Desktop\Uygulama1\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\sony\Desktop\Uygulama1\Donguler\bin\Debug\Donguler.exe
+C:\Users\sony\Desktop\Uygulama1\Donguler\bin\Debug\Donguler.pdb
+C:\Users\sony\Desktop\Uygulama1\Donguler\obj\Debug\Donguler.csprojAssemblyReference.cache
+C:\Users\sony\Desktop\Uygulama1\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\Uygulama1\Donguler\obj\Debug\Donguler.exe
+C:\Users\sony\Desktop\Uygulama1\Donguler\obj\Debug\Donguler.pdb

@@ -1,0 +1,7 @@
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
+C:\Users\sony\Desktop\Uygulama1\Koleksiyonlar\obj\Debug\Koleksiyonlar.csprojAssemblyReference.cache
